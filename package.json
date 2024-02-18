@@ -1,0 +1,31 @@
+{
+  "name": "divas-colorify",
+  "version": "1.0.0",
+  "description": "A library to colorify your console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divas-Sagta/divas-colorify"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify logs"
+  ],
+  "author": "Divas Sagta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codersgyan/codersgyan-colorify/issues"
+  },
+  "homepage": "https://github.com/codersgyan/codersgyan-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
