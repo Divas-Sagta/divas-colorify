@@ -1,9 +1,9 @@
-# Coder Gyan colorify library
+# Divas-Colorify NPM library
 
 ### Usage
 
 ```
-import { Log } from 'codersgyan-colorify';
+import { Log } from 'divas-colorify';
 
 
 Log.success('Congratulations!');
