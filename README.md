@@ -11,4 +11,4 @@ Log.danger('Mind your head!');
 Log.info('You see!');
 
 ```
-# Thanks for Visiting 
+### Thanks for Visiting 
